@@ -22,8 +22,8 @@ Você deve adicionar e sincronizar os seguintes compile no Gradle a nível do Ap
 
 ## Usando o Gradle:
 
-compile 'com.squareup.retrofit2:retrofit:2.3.0'
-compile 'com.squareup.retrofit2:converter-gson:2.3.0'
+implementation 'com.squareup.retrofit2:retrofit:2.3.0'
+implementation 'com.squareup.retrofit2:converter-gson:2.3.0'
 
 # Licença
 
